@@ -3,7 +3,10 @@ guid: de0a9347a8c029d458468505c4c10afc
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - _tilePrefab: {instanceID: 0}
+  - _circlePrefab: {fileID: -2631691868025367928, guid: 2f8be9071d26ff94cb5ba3518251d6c8, type: 3}
+  - _cam: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
